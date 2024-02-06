@@ -1,0 +1,25 @@
+tags:: #daily-notes 
+links:: [[909 Journal MOC]] [[+Daily Notes]] [[2023-W40]] [[2023-10-06-SK]] [[2023-10-06-APH]] [[2023-10-06-SCW]]
+# 2023-10-06
+
+<< [[2023-10-05]] - [[2023-10-07]] >>
+
+---
+### 📅 Daily Questions
+##### 🌜 Last night, I...
+- Did Maths homework and played dbd
+
+##### 🙌 One thing I've excited about right now is...
+- Tests being finished 
+
+##### 🚀 One+ thing I plan to accomplish today is...
+- [ ] Do chemistry test [[000-C Analytical Techniques AP2]]
+
+##### 👎 One thing I'm struggling with today is...
+- Tiredness and fatigue
+
+### Todays Notes
+```dataview
+list 
+where file.cday = date("today")
+```

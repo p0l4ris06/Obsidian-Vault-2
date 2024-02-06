@@ -1,0 +1,4 @@
+Tags: #000-Biology/Definition 
+
+---
+Adenosine diphosphate

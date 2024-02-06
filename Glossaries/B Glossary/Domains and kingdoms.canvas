@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"f6b3be80dc0bc060","x":-240,"y":-222,"width":250,"height":60,"color":"4","type":"text","text":"[[Eukaryotae]] ([[Eukaryotic cells]])"},
+		{"id":"ae49e23e16c9c7d9","x":40,"y":-222,"width":250,"height":60,"color":"4","type":"text","text":"[[Eubacteria]]"},
+		{"id":"ba2eed9bc00451af","x":320,"y":-222,"width":250,"height":60,"color":"4","type":"text","text":"[[Archaea]]"},
+		{"id":"164d74c454068ac9","x":40,"y":-340,"width":250,"height":60,"color":"1","type":"text","text":"[[Domain]]s:"},
+		{"id":"77dbe211df792b07","x":-420,"y":4,"width":250,"height":60,"color":"5","type":"text","text":"[[Plantae]]"},
+		{"id":"7868fd3a2bae45ce","x":400,"y":-86,"width":250,"height":60,"color":"5","type":"text","text":"[[Prokaryotae]] ([[Prokaryotic cells]])"},
+		{"id":"ac68eff270c8bf93","x":40,"y":200,"width":250,"height":60,"color":"1","type":"text","text":"[[Kingdom]]s:"},
+		{"id":"e8528585cd23c0a8","x":-260,"y":94,"width":250,"height":60,"color":"5","type":"text","text":"[[Animalia]]"},
+		{"id":"e1e79e237e467275","x":10,"y":34,"width":250,"height":60,"color":"5","type":"text","text":"[[Fungi]]"},
+		{"id":"716aedbcbd2417fe","x":-40,"y":-56,"width":250,"height":60,"color":"5","type":"text","text":"[[Protoctista]]"}
+	],
+	"edges":[
+		{"id":"13c2a19f06d4b45a","fromNode":"164d74c454068ac9","fromSide":"left","toNode":"f6b3be80dc0bc060","toSide":"top"},
+		{"id":"91cd0da1041b7756","fromNode":"164d74c454068ac9","fromSide":"bottom","toNode":"ae49e23e16c9c7d9","toSide":"top"},
+		{"id":"19b0413c4db412d1","fromNode":"164d74c454068ac9","fromSide":"right","toNode":"ba2eed9bc00451af","toSide":"top"},
+		{"id":"f7f420493d24bd65","fromNode":"f6b3be80dc0bc060","fromSide":"bottom","toNode":"77dbe211df792b07","toSide":"top"},
+		{"id":"57b618636646117c","fromNode":"f6b3be80dc0bc060","fromSide":"bottom","toNode":"e8528585cd23c0a8","toSide":"top"},
+		{"id":"3e93242f277ccb54","fromNode":"f6b3be80dc0bc060","fromSide":"bottom","toNode":"716aedbcbd2417fe","toSide":"left"},
+		{"id":"6d1897c8cc432842","fromNode":"f6b3be80dc0bc060","fromSide":"bottom","toNode":"e1e79e237e467275","toSide":"left"},
+		{"id":"7dced4995bfb4bca","fromNode":"7868fd3a2bae45ce","fromSide":"top","toNode":"ba2eed9bc00451af","toSide":"bottom"},
+		{"id":"69d7c845f330bb5a","fromNode":"7868fd3a2bae45ce","fromSide":"bottom","toNode":"ac68eff270c8bf93","toSide":"right"},
+		{"id":"bdd95b63a9533aed","fromNode":"7868fd3a2bae45ce","fromSide":"left","toNode":"ae49e23e16c9c7d9","toSide":"bottom"},
+		{"id":"17d889367dcd23a5","fromNode":"716aedbcbd2417fe","fromSide":"right","toNode":"ac68eff270c8bf93","toSide":"right"},
+		{"id":"a41462343c7cfa8b","fromNode":"e1e79e237e467275","fromSide":"bottom","toNode":"ac68eff270c8bf93","toSide":"top"},
+		{"id":"10f892f2994774b9","fromNode":"e8528585cd23c0a8","fromSide":"right","toNode":"ac68eff270c8bf93","toSide":"left"},
+		{"id":"04478b56ec64bd14","fromNode":"77dbe211df792b07","fromSide":"bottom","toNode":"ac68eff270c8bf93","toSide":"left"}
+	]
+}

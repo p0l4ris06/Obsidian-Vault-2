@@ -1,0 +1,2 @@
+Viruses invade cells and take over the genetic machinery and other [[Organelles]] of the cell. They then cause the cell to manufacture more copies of the virus. The host cell eventually bursts releasing more viruses to infect healthy cells.
+#000-Biology/Definition 

@@ -1,0 +1,1 @@
+Compound with only two elements in it

@@ -1,0 +1,2 @@
+The initial rate is the instantaneous rate at the start of a reaction when t=0. The initial rate can be found by measuring the gradient of a tangent drawn at t=o on a [[Concentration]]-time graph
+#000-Chemistry/Definition

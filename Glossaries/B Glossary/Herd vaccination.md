@@ -1,0 +1,2 @@
+Using a [[Vaccination]] to provide immunity to all or most of the [[population]] at risk. Once enough people are immune the disease can no longer spread through the population and herd immunity is achieved
+#000-Biology/Definition 

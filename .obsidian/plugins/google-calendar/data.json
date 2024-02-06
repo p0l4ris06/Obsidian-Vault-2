@@ -1,0 +1,97 @@
+{
+  "googleClientId": "579075434208-mc50ue8pgum469prttigs1a2n2k70gli.apps.googleusercontent.com",
+  "googleClientSecret": "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",
+  "googleRefreshToken": "",
+  "useCustomClient": true,
+  "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
+  "refreshInterval": 10,
+  "useNotification": false,
+  "showNotice": true,
+  "autoCreateEventNotes": true,
+  "autoCreateEventNotesMarker": "obsidian",
+  "ignorePatternList": [],
+  "autoCreateEventKeepOpen": false,
+  "importStartOffset": 1,
+  "importEndOffset": 1,
+  "optionalNotePrefix": "",
+  "eventNoteNameFormat": "{{prefix}}{{event-title}}",
+  "defaultCalendar": "Default",
+  "calendarBlackList": [
+    [
+      "family18151648672607197907@group.calendar.google.com",
+      "Family"
+    ]
+  ],
+  "insertTemplates": [],
+  "useDefaultTemplate": false,
+  "defaultTemplate": "",
+  "defaultFolder": "/",
+  "activateDailyNoteAddon": true,
+  "dailyNoteDotColor": "#6aa1d8",
+  "useWeeklyNotes": false,
+  "debugMode": false,
+  "timelineHourFormat": 0,
+  "atAnnotationEnabled": true,
+  "usDateFormat": false,
+  "viewSettings": {
+    "day": {
+      "type": "day",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "offset": 0,
+      "timespan": 1,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "week": {
+      "type": "week",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "offset": 0,
+      "timespan": 7,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "schedule": {
+      "type": "schedule",
+      "exclude": [],
+      "include": [],
+      "hourRange": [
+        0,
+        24
+      ],
+      "offset": 0,
+      "timespan": 7,
+      "showAllDay": true,
+      "navigation": true
+    },
+    "month": {
+      "type": "month",
+      "exclude": [],
+      "include": [],
+      "offset": 0
+    },
+    "year": {
+      "type": "year",
+      "exclude": [],
+      "include": [],
+      "offset": 0,
+      "size": 15
+    },
+    "web": {
+      "type": "web",
+      "theme": "auto",
+      "view": "day",
+      "offset": 0
+    }
+  },
+  "autoCreateEventNotesIgnoreList": []
+}

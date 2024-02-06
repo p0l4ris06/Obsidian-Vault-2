@@ -1,0 +1,2 @@
+If the body is infected by the same [[Pathogen]], the [[Antibodies]] must be made again. As a result of the specific immune response there will be [[B memory cells]] and [[T memory cells]] circulating in the [[Blood]] so the immune response can attack more rapidly. The [[Concentration]] of [[Antibodies]] rises sooner and reaches a higher [[Concentration]].
+#000-Biology/Definition 

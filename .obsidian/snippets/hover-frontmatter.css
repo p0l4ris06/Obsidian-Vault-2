@@ -1,0 +1,70 @@
+[data-callout="meta"] {
+  width: fit-content;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  border: 2px solid var(--background-secondary);
+  border-radius: 15px;
+
+}
+
+
+
+[data-callout="meta"]::before {
+  content: "Metadata";
+  display: block;
+  padding: 15px 19px 15px 19px;
+  background-color: var(--background-secondary);
+  opacity: 0.5;
+  font-size: 17px;
+  font-family: monospace;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  max-height: 100vh;
+  max-width: 100vw;
+  transition: max-height 100ms ease-out,
+            max-width 400ms ease-out,
+            padding 300ms ease-out,
+            opacity 400ms ease-out;
+  overflow: hidden;
+  width: fit-content;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  white-space: nowrap;
+}
+
+[data-callout="meta"]:hover::before {
+  max-height: 0px;
+  max-width: 0px;
+  padding: 0;
+  opacity: 0;
+}
+
+[data-callout="meta"] .callout-title {
+  display: none;
+}
+
+[data-callout="meta"] .callout-content > p {
+  margin: 0;
+}
+
+[data-callout="meta"] .callout-content {
+  display: block !important;
+  max-width: 0;
+  max-height: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 1.8em;
+  opacity: 0;
+  transition: max-height 200ms ease-out,
+              max-width 200ms ease-out,
+              padding 200ms ease-out,
+              opacity 400ms ease-out;
+}
+
+[data-callout="meta"]:hover .callout-content {
+  padding: 21px 25px 23px 25px;
+  max-width: 100vw;
+  max-height: 100vh;
+  opacity: 1;
+}

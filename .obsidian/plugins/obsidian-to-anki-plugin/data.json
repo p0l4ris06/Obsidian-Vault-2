@@ -392,9 +392,9 @@
       "Frozen Fields Line": "FROZEN"
     },
     "Defaults": {
-      "Scan Directory": "",
+      "Scan Directory": "Glossaries\\B Glossary",
       "Tag": "Obsidian_to_Anki",
-      "Deck": "Default",
+      "Deck": "Obsidian",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,
